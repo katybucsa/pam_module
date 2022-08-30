@@ -1,0 +1,4 @@
+# ninja log v5
+0	1008	1649523084796630426	CMakeFiles/pam_send_email.dir/main.cpp.o	f8ea99b8cf07ebef
+1010	1100	1649523084894117491	pam_send_email	8b558c0289c4ee5a
+1	721	1649523168592967741	CMakeFiles/pam_send_email.dir/main.cpp.o	f8ea99b8cf07ebef
